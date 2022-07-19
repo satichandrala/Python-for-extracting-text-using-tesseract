@@ -11,6 +11,6 @@
 - OpenCV, Tesseract (you need to download tesseract, I used their github page, https://github.com/tesseract-ocr/tessdoc and downloaded the new 5.x, tesseract-ocr-w64-setup-v5.2.0.20220712.exe). 
 - You can download whatever is new and stable at the time you use the code.
 
-Main.ipynb is the jupyter notebook I used to write the code.
-text.png is the image used for the analysis
-recognize.txt is the result after processing the image through code.
+- *Main.ipynb* is the jupyter notebook I used to write the code.
+- *text.png* is the image used for the analysis
+- *recognize.txt* is the result after processing the image through code.
