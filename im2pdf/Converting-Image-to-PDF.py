@@ -70,7 +70,7 @@ ttk.Button (win, text= "Click to Select Images",command = select_file).pack(ipad
 frame = Frame(win)
 frame.pack()
 ttk.Button(frame, text= "Click to Convert and save as", command = image_to_pdf).pack(side = LEFT, pady=20, ipadx = 10)
-win.mainloop() 
+win.mainloop()
 
 
 
